@@ -1,0 +1,31 @@
+2025-05-17 13:07:26,562 - INFO - Using hardcoded credentials:
+2025-05-17 13:07:26,562 - INFO - WASENDER_API_TOKEN: 7e10...47ae
+2025-05-17 13:07:26,562 - INFO - OPENAI_API_KEY: sk-p...3oMA
+2025-05-17 13:07:26,562 - INFO - ASSISTANT_ID: asst_wBPPsAtj5GX3tWmaMKZ1JTQl
+2025-05-17 13:07:27,135 - INFO - HTTP Request: GET https://api.openai.com/v1/assistants/asst_wBPPsAtj5GX3tWmaMKZ1JTQl "HTTP/1.1 401 Unauthorized"
+2025-05-17 13:07:27,140 - ERROR - Error loading Assistant: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************3oMA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-05-17 13:09:17,115 - INFO - Using hardcoded credentials:
+2025-05-17 13:09:17,115 - INFO - WASENDER_API_TOKEN: 84fc...6938
+2025-05-17 13:09:17,115 - INFO - OPENAI_API_KEY: sk-p...V9AA
+2025-05-17 13:09:17,115 - INFO - ASSISTANT_ID: asst_wBPPsAtj5GX3tWmaMKZ1JTQl
+2025-05-17 13:09:18,504 - INFO - HTTP Request: GET https://api.openai.com/v1/assistants/asst_wBPPsAtj5GX3tWmaMKZ1JTQl "HTTP/1.1 200 OK"
+2025-05-17 13:09:18,518 - INFO - Successfully connected to Assistant: Markaz Support Bot  
+2025-05-17 13:09:18,518 - INFO - Successfully loaded persona: WhatsApp Assistant
+2025-05-17 13:09:23,585 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.27:5000
+2025-05-17 13:09:23,586 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 13:09:23,587 - INFO -  * Restarting with stat
+2025-05-17 13:09:23,999 - INFO - Using hardcoded credentials:
+2025-05-17 13:09:23,999 - INFO - WASENDER_API_TOKEN: 84fc...6938
+2025-05-17 13:09:23,999 - INFO - OPENAI_API_KEY: sk-p...V9AA
+2025-05-17 13:09:23,999 - INFO - ASSISTANT_ID: asst_wBPPsAtj5GX3tWmaMKZ1JTQl
+2025-05-17 13:09:25,222 - INFO - HTTP Request: GET https://api.openai.com/v1/assistants/asst_wBPPsAtj5GX3tWmaMKZ1JTQl "HTTP/1.1 200 OK"
+2025-05-17 13:09:25,232 - INFO - Successfully connected to Assistant: Markaz Support Bot  
+2025-05-17 13:09:25,232 - INFO - Successfully loaded persona: WhatsApp Assistant
+2025-05-17 13:09:25,265 - WARNING -  * Debugger is active!
+2025-05-17 13:09:25,274 - INFO -  * Debugger PIN: 357-082-491
+2025-05-17 13:10:45,462 - INFO -  * Detected change in '/Users/saqib/Desktop/Whatsapp 2/whatsapp-python-chatbot-main/script.py', reloading
+2025-05-17 13:10:45,562 - INFO -  * Restarting with stat
+2025-05-17 13:11:19,806 - INFO -  * Restarting with stat
