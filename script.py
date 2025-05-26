@@ -17,7 +17,7 @@ import re
 
 # Hardcoded API tokens and IDs
 WASENDER_API_TOKEN = "84fc8b481b469bea9e321894b5acc3fe9efdd14ad3ab858c152a811559d46938"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 ASSISTANT_ID = "asst_YEfnfWqNyJR5UZaRhFkJ3X8i"
 
 # Dictionary to store thread IDs for different phone numbers
